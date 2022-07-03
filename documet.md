@@ -14,9 +14,11 @@ create virtual environment by using the following command
 `python3 -m venv v_name`
 
 To activate the virtual environmet use the following command on the terminal
+
 `source v_nake/bin/activate`
 
 To deactive the virtual environment use the following command on the terminal
+
 `deactivate`
 
 
