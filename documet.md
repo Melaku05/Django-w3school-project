@@ -15,7 +15,7 @@ create virtual environment by using the following command
 
 To activate the virtual environmet use the following command on the terminal
 
-`source v_nake/bin/activate`
+`source v_name/bin/activate`
 
 To deactive the virtual environment use the following command on the terminal
 
