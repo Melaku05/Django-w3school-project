@@ -1,4 +1,4 @@
-# COnfigration and Setup  env for django project
+# Configration and Setup  env for django project
 
 ## Install python3 and Pip
 check python and pip install in the machine by using 
